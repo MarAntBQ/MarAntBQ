@@ -7,7 +7,7 @@
 ## 🛠️ Skills
 
 - **Front-End Development**: HTML, Angular, CSS / Sass, Bootstrap, JavaScript, TypeScript, jQuery, Tailwind CSS, React, EJS
-- **Back-End Development**: : Node.jS / Express, Symfony / TWIG, SQL, Python, Mongo, C#, PHP, Java, LoopBack 4
+- **Back-End Development**: : Node.jS / Express, Symfony / TWIG, SQL, Python, Mongo, C#, PHP, Java, LoopBack 4, Nest.js
 - **Cloud & Servers**: : DirectAdmin, Bitbucket, cPanel, GitLab, Git, Azure DevOps, SSH, GitHub
 - **CMS & Platforms**: : Wordpress, Salesforce, ECWID, Divi, Drupal, Rank Math SEO, PrestaShop, WHMCS, Elementor, Ucoz, SEO, WIX
 - **Design**: : Adobe Illustrator, Adobe Fireworks, Vegas Pro, Canva
