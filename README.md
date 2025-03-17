@@ -14,8 +14,6 @@
 - **Additional Tools & Technologies**: : Zoom, Slack, Teams, DingTalk, Trello, Microsoft Office, Jira, Google Docs, Confluence, Google Adsense, Analytics, MyBusiness, Search Console, Sitekit, GitHub Copilot, Udemy Instructor Studio, Youtube Creator Studio, MyLiveChat, Facebook Ads Manager, SRI Online / IESS Empleador, Facturador SRI, ChatGPT, PayPhone Business
 
 
-
-```markdown
 ## 💼 Experience
 
 ### 🚀 Marbust Technology Company (Self-Employee)  
@@ -68,7 +66,6 @@
 📅 **Jun 2019 – Oct 2019**  
 **Web Designer**  
 - Designed **HTML templates** using **CSS (Sass) and JavaScript** for **PHP MVC applications integrated with MySQL**.  
-```
 
 ## 📫 Contact Me
 
