@@ -2,7 +2,7 @@
 
 **Full Stack Web Developer** | **Educator** | **Family Man**
 
-🌐 [marantbq.dev](https://marantbq.dev/)
+🌐 [MarAntBQ.dev](https://marantbq.dev/)
 
 ## 🛠️ Skills
 
