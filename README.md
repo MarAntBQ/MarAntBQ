@@ -8,6 +8,7 @@
 
 - **Front-End Development**: HTML, Angular, CSS / Sass, Bootstrap, JavaScript, TypeScript, jQuery, Tailwind CSS, React, EJS
 - **Back-End Development**: : Node.jS / Express, Symfony / TWIG, SQL, Python, Mongo, C#, PHP, Java, LoopBack 4, Nest.js
+- **Mobile Development**: : React Native / Expo
 - **Cloud & Servers**: : DirectAdmin, Bitbucket, cPanel, GitLab, Git, Azure DevOps, SSH, GitHub
 - **CMS & Platforms**: : Wordpress, Salesforce, ECWID, Divi, Drupal, Rank Math SEO, PrestaShop, WHMCS, Elementor, Ucoz, SEO, WIX
 - **Design**: : Adobe Illustrator, Adobe Fireworks, Vegas Pro, Canva
@@ -29,11 +30,9 @@
 
 ### 🏦 TechyWe  
 📅 **May 2024 – Present** | *El Salvador – Remote*  
-**Backend Developer**  
-- Developed and maintained **REST APIs & Microservices** using **Node.js, LoopBack 4, Nest.JS, TypeScript, PHP, and Java (Spring Boot)**.  
-- Integrated **MySQL databases** to deliver **scalable banking, NIFF Compliance, and Electronic Invoicing solutions**.  
-- Led **database design & deployment**, integrating third-party services like **Salesforce & i2c** for seamless platform operations.  
-
+**Back-End & Mobile Developer**  
+- Developed and maintained backend REST APIs and Microservices using **Node.js, LoopBack 4, Nest.JS, TypeScript, PHP, and built mobile apps with React Native & Expo**, integrating **MySQL** databases to deliver scalable banking and NIIF Compliance solutions.
+- Led database design and deployment while integrating services like **Salesforce, i2c, and DocuWare**, ensuring seamless operations and enhanced functionality for the platforms.
 ---
 
 ### 💳 Elife Tech Inc.  
