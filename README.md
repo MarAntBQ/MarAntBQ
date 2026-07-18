@@ -85,6 +85,11 @@
 - Migrated hosting infrastructure for **120+ client accounts** to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening (firewall automation, jailed multi-tenant isolation), and automated backups.
 - Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
 
+**Marbust System — internal ERP & commerce platform (NestJS, 2026):**
+- Led the third full rewrite of the company's core system into a modular **NestJS + React (Vite/TypeScript, TypeORM)** platform spanning accounting, finance/treasury, e-commerce, and support.
+- Built **Marbust Store**, a multi-tenant e-commerce engine replacing PrestaShop — universal product variants, Servientrega shipping, PayPhone/PayPal/bank-transfer checkout, and automatic SRI e-invoicing on payment.
+- Extended the SRI suite to credit notes, withholding receipts and sales notes, plus a tax-declaration assistant (IVA/Renta) and a treasury module with bank reconciliation.
+
 **AI & automation (2026):**
 - Designed and shipped a **multi-provider AI chatbot** to production (NestJS, OpenAI-compatible LLM APIs) — prompt engineering, conversation memory, automatic failover — live across 5 client sites, plus a custom WordPress plugin (`mb-chatbot`) connecting sites to it.
 
