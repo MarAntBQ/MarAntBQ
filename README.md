@@ -10,10 +10,10 @@
 
 </div>
 
-9 years building full-stack systems end-to-end — from database design to polished UI. In 2026 I founded and built **MBHostCloud**, a hosting/billing platform (WHMCS-parity ordering + a multi-establishment SRI-compliant electronic invoicing engine), migrated 120+ client accounts to self-managed infrastructure, and shipped a multi-provider AI chatbot to production. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow — I use it to ship faster without cutting corners.
+9 years building full-stack systems end-to-end. I designed, built, and solo-operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) that runs my entire multi-brand company under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both the internal backoffice and every client's self-service portal. In 2026 I also shipped a production AI chatbot and migrated 120+ clients of my hosting business (**MBHostCloud®**, since 2018) to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
 
 - 🔭 **Currently:** leading backend technical direction for a team of ~10 developers at TechyWe, and migrating a core business app to Next.js + Vercel + Supabase
-- 🏗️ **Flagship 2026 build:** MBHostCloud — hosting/billing platform, SRI e-invoicing engine, VPS migration for 120+ clients, security & mail-auth hardening, Telegram ops bots
+- ⭐ **Flagship:** Marbust System — a self-built ERP (~22 modules, ~184 pages) governing my whole company + allied brands, with legal Ecuador SRI e-invoicing end to end
 - 🤖 **Also shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a React Native/Expo app published to Google Play
 - 🌎 Based in Ecuador · Advanced English (C1+) · open to remote full-time & freelance work
 
@@ -66,7 +66,7 @@
 
 **Billing & Compliance**
 
-![WHMCS-parity](https://img.shields.io/badge/-Billing%20%26%20Ordering%20Systems-2E7D32?style=flat-square)
+![Billing Systems](https://img.shields.io/badge/-Billing%20%26%20Ordering%20Systems-2E7D32?style=flat-square)
 ![SRI](https://img.shields.io/badge/-SRI%20e--Invoicing%20(XAdES)-2E7D32?style=flat-square)
 ![PayPhone](https://img.shields.io/badge/-PayPhone%20%2F%20PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
 
@@ -80,20 +80,21 @@
 ### 🚀 Marbust Technology Company — Founder & Full Stack Developer
 📅 March 2017 – Present · Ecuador
 
-**MBHostCloud — hosting & billing platform (2026, flagship build):**
-- Designed and built a **WHMCS-parity hosting/billing platform** from scratch: unified order management and a multi-establishment / multi-emission-point **SRI-compliant electronic invoicing engine** (XAdES digital signing, independent PRUEBAS/PRODUCCIÓN sequential counters, auto-invoice-on-payment).
-- Migrated hosting infrastructure for **120+ client accounts** to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening (firewall automation, jailed multi-tenant isolation), and automated backups.
-- Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
-
-**Marbust System — internal ERP & commerce platform (NestJS, 2026):**
-- Led the third full rewrite of the company's core system into a modular **NestJS + React (Vite/TypeScript, TypeORM)** platform spanning accounting, finance/treasury, e-commerce, and support.
-- Built **Marbust Store**, a multi-tenant e-commerce engine replacing PrestaShop — universal product variants, Servientrega shipping, PayPhone/PayPal/bank-transfer checkout, and automatic SRI e-invoicing on payment.
-- Extended the SRI suite to credit notes, withholding receipts and sales notes, plus a tax-declaration assistant (IVA/Renta) and a treasury module with bank reconciliation.
+**⭐ Marbust System — self-built multi-brand ERP (NestJS + React, the flagship):**
+- Designed, built, and solo-operate a unified ERP (**Marbust System API** + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) governing every business line of my company plus allied external brands (like MBRelax) — one login for both the internal backoffice and every client's self-service portal.
+- **SRI-compliant electronic invoicing** integrated end to end (XAdES digital signing, multi-establishment / multi-emission-point, independent test/production sequential counters) with accounting, credit notes, withholdings, and a tax-declaration assistant (IVA/Renta).
+- Built **Marbust Store**, a multi-tenant e-commerce engine replacing PrestaShop, plus a finance/treasury module with bank reconciliation.
+- Led 3 full architecture generations (PHP → Node/Express → NestJS) — the current version has run the whole business in production since 2026.
 
 **AI & automation (2026):**
 - Designed and shipped a **multi-provider AI chatbot** to production (NestJS, OpenAI-compatible LLM APIs) — prompt engineering, conversation memory, automatic failover — live across 5 client sites, plus a custom WordPress plugin (`mb-chatbot`) connecting sites to it.
 
-**Web, mobile & core business (2017 – Present):**
+**MBHostCloud® — hosting business (since 2018):**
+- Operate a hosting business (120+ clients) that runs today on **WHMCS** while I build my own management/automation software in-house — one module of Marbust System, currently ~30% built.
+- Migrated hosting infrastructure for those 120+ clients to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening, and automated backups.
+- Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
+
+**Web, mobile & early business (2017 – Present):**
 - Built the original **SRI-compliant e-invoicing platform** (XAdES digital signing + SOAP) with accounting and PayPhone/PayPal payments. Drove a 175% sales boost and 90% client retention.
 - Delivered **70+ full-stack projects** (web, e-commerce); grew the hosting client base ~35x since 2018.
 - Published a **React Native/Expo** app to Google Play; taught web development on YouTube & Udemy (92.9K+ views, 137 students, 4.60★).
