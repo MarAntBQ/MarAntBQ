@@ -10,11 +10,11 @@
 
 </div>
 
-9 years building full-stack systems end-to-end — from database design to polished UI — with a recent, hands-on shift into **production GenAI**: I designed and shipped a multi-provider LLM chatbot platform (prompt engineering, conversation memory, provider failover) live across 5 client-facing sites, and I use AI-assisted development (Claude Code, GitHub Copilot) daily to ship faster without cutting corners.
+9 years building full-stack systems end-to-end — from database design to polished UI. In 2026 I founded and built **MBHostCloud**, a hosting/billing platform (WHMCS-parity ordering + a multi-establishment SRI-compliant electronic invoicing engine), migrated 120+ client accounts to self-managed infrastructure, and shipped a multi-provider AI chatbot to production. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow — I use it to ship faster without cutting corners.
 
 - 🔭 **Currently:** leading backend technical direction for a team of ~10 developers at TechyWe, and migrating a core business app to Next.js + Vercel + Supabase
-- 🤖 **Recently shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a self-managed Linux VPS serving 120+ hosting clients
-- 📱 **Also:** published a React Native/Expo app to Google Play
+- 🏗️ **Flagship 2026 build:** MBHostCloud — hosting/billing platform, SRI e-invoicing engine, VPS migration for 120+ clients, security & mail-auth hardening, Telegram ops bots
+- 🤖 **Also shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a React Native/Expo app published to Google Play
 - 🌎 Based in Ecuador · Advanced English (C1+) · open to remote full-time & freelance work
 
 ## 🛠️ Tech Stack
@@ -62,6 +62,13 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx/Exim Mail Auth](https://img.shields.io/badge/-Mail%20Auth%20(SPF%2FDKIM%2FDMARC)-1A73E8?style=flat-square&logo=maildotru&logoColor=white)
+
+**Billing & Compliance**
+
+![WHMCS-parity](https://img.shields.io/badge/-Billing%20%26%20Ordering%20Systems-2E7D32?style=flat-square)
+![SRI](https://img.shields.io/badge/-SRI%20e--Invoicing%20(XAdES)-2E7D32?style=flat-square)
+![PayPhone](https://img.shields.io/badge/-PayPhone%20%2F%20PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
 
 **CMS & Platforms**
 
@@ -73,10 +80,17 @@
 ### 🚀 Marbust Technology Company — Founder & Full Stack Developer
 📅 March 2017 – Present · Ecuador
 
+**MBHostCloud — hosting & billing platform (2026, flagship build):**
+- Designed and built a **WHMCS-parity hosting/billing platform** from scratch: unified order management and a multi-establishment / multi-emission-point **SRI-compliant electronic invoicing engine** (XAdES digital signing, independent PRUEBAS/PRODUCCIÓN sequential counters, auto-invoice-on-payment).
+- Migrated hosting infrastructure for **120+ client accounts** to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening (firewall automation, jailed multi-tenant isolation), and automated backups.
+- Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
+
+**AI & automation (2026):**
 - Designed and shipped a **multi-provider AI chatbot** to production (NestJS, OpenAI-compatible LLM APIs) — prompt engineering, conversation memory, automatic failover — live across 5 client sites, plus a custom WordPress plugin (`mb-chatbot`) connecting sites to it.
-- Migrated hosting infrastructure for **120+ client accounts** to a self-managed Linux VPS (security hardening, deployment automation, self-healing monitoring via a Telegram ops bot).
-- Built a custom **SRI-compliant e-invoicing platform** (XAdES digital signing + SOAP) with accounting and PayPhone/PayPal payments.
-- Delivered **70+ full-stack projects**, driving a 175% sales boost and 90% client retention; grew the hosting client base ~35x since 2018.
+
+**Web, mobile & core business (2017 – Present):**
+- Built the original **SRI-compliant e-invoicing platform** (XAdES digital signing + SOAP) with accounting and PayPhone/PayPal payments. Drove a 175% sales boost and 90% client retention.
+- Delivered **70+ full-stack projects** (web, e-commerce); grew the hosting client base ~35x since 2018.
 - Published a **React Native/Expo** app to Google Play; taught web development on YouTube & Udemy (92.9K+ views, 137 students, 4.60★).
 
 ### 🏦 TechyWe — Back-End Technical Lead
