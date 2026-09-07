@@ -12,7 +12,7 @@
 
 9 years building full-stack systems end-to-end. I designed, built, and solo-operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) that runs my entire multi-brand company under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both the internal backoffice and every client's self-service portal. In 2026 I also shipped a production AI chatbot and migrated 120+ clients of my hosting business (**MBHostCloud®**, since 2018) to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
 
-- 🔭 **Currently:** leading backend technical direction for a team of ~10 developers at TechyWe, and migrating a core business app to Next.js + Vercel + Supabase
+- 🔭 **Currently:** open to new full-time & freelance opportunities — building out MarAntBQ.dev and shipping open-source Claude Code skills
 - ⭐ **Flagship:** Marbust System — a self-built ERP (~22 modules, ~184 pages) governing my whole company + allied brands, with legal Ecuador SRI e-invoicing end to end
 - 🤖 **Also shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a React Native/Expo app published to Google Play
 - 🌎 Based in Ecuador · Advanced English (C1+) · open to remote full-time & freelance work
@@ -75,6 +75,16 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
+## 📦 Open Source
+
+| Project | What it does |
+|---|---|
+| [**Job Search Skills Kit**](https://github.com/MarAntBQ/JobSearchSkill) | Two Claude Code skills that automate a job search honestly end to end — turns a posting into a 1-page ATS-verified tailored resume, then sends it via SMTP with a hard "test yourself first" rule. |
+| [**LOPDP Ecuador Skill**](https://github.com/MarbustTechnologyCompany/LOPDPSkill) | Claude Code skill that turns Ecuador's data-protection law into concrete development decisions — legal basis, consent modeling, ARCO+ rights, real-world traps. |
+| [**ChatBot Integration Skill**](https://github.com/MarbustTechnologyCompany/ChatBotIntegrationSkill) | Guide + WordPress plugin so anyone can add the same cloud-first, failover-ready AI sales chatbot pattern running in my own production sites. |
+| [**Email Marketing DirectAdmin Setup Skill**](https://github.com/MarbustTechnologyCompany/EmailMarketingDASetupSkill) | Hosting-agnostic skill that authenticates a DirectAdmin domain for email and wires up marketing sends through a free-tier ESP instead of the shared relay. |
+| [**WHMCS PayPhone Payment Gateway**](https://github.com/MarbustTechnologyCompany/whmcs-payphone-plugin) | Payment gateway plugin bringing PayPhone (Ecuador) checkout to WHMCS. |
+
 ## 💼 Experience
 
 ### 🚀 Marbust Technology Company — Founder & Full Stack Developer
@@ -100,16 +110,16 @@
 - Published a **React Native/Expo** app to Google Play; taught web development on YouTube & Udemy (92.9K+ views, 137 students, 4.60★).
 
 ### 🏦 TechyWe — Back-End Technical Lead
-📅 Oct 2025 – Present · El Salvador (Remote)
+📅 Oct 2025 – Sep 2026 · El Salvador (Remote)
 
-- Lead backend technical direction for **~10 developers**, driving architecture decisions and ramping the team onto new stacks (C#, .NET, Java) as client needs require.
-- Run daily scrums, planning, and code review across concurrent Central-American client projects.
+- Led backend technical direction for **~10 developers**, driving architecture decisions and ramping the team onto new stacks (C#, .NET, Java) as client needs required.
+- Ran daily scrums, planning, and code review across concurrent Central-American client projects.
 
 ### 🏦 TechyWe — Back-End Developer
-📅 May 2024 – Present · El Salvador (Remote)
+📅 May 2024 – Sep 2026 · El Salvador (Remote)
 
-- Build REST APIs and financial systems (Node.js, TypeScript, NestJS, LoopBack 4) for credit/debit cards, wire transfers, digital invoicing, and NIIF-compliant accounting.
-- Migrating a core business app to **Next.js + Vercel + Supabase (PostgreSQL)**, using Claude Code daily and the Model Context Protocol (MCP) for AI-assisted database work.
+- Built REST APIs and financial systems (Node.js, TypeScript, NestJS, LoopBack 4) for credit/debit cards, wire transfers, digital invoicing, and NIIF-compliant accounting.
+- Led the migration of a core business app to **Next.js + Prisma + NextAuth (Vercel, Postgres/Supabase)**, using Claude Code daily and the Model Context Protocol (MCP) for AI-assisted database work.
 
 <details>
 <summary>💳 Earlier experience — Elife Tech, Expandya, Altura S.A., 2JL Soluciones Informáticas</summary>
