@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marco Antonio Bustillos Quiroz
 
-### Full-Stack Developer · AI/LLM Integrations · Founder @ Marbust Technology Company
+### Full Stack Developer @ SwyftFin · Founder @ Marbust Technology Company
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-MarAntBQ.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marantbq.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MarAntBQ)
@@ -12,7 +12,7 @@
 
 9 years building full-stack systems end-to-end. I designed, built, and solo-operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) that runs my entire multi-brand company under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both the internal backoffice and every client's self-service portal. In 2026 I also shipped a production AI chatbot and migrated 120+ clients of my hosting business (**MBHostCloud®**, since 2018) to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
 
-- 🔭 **Currently:** open to new full-time & freelance opportunities — building out MarAntBQ.dev and shipping open-source Claude Code skills
+- 🔭 **Currently:** Full Stack Developer at **SwyftFin** (US fintech, remote) — still open to the right full-time or freelance opportunity, and shipping open-source Claude Code skills on the side
 - ⭐ **Flagship:** Marbust System — a self-built ERP (~22 modules, ~184 pages) governing my whole company + allied brands, with legal Ecuador SRI e-invoicing end to end
 - 🤖 **Also shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a React Native/Expo app published to Google Play
 - 🌎 Based in Ecuador · Advanced English (C1+) · open to remote full-time & freelance work
@@ -80,12 +80,20 @@
 | Project | What it does |
 |---|---|
 | [**Job Search Skills Kit**](https://github.com/MarAntBQ/JobSearchSkill) | Two Claude Code skills that automate a job search honestly end to end — turns a posting into a 1-page ATS-verified tailored resume, then sends it via SMTP with a hard "test yourself first" rule. |
+| [**Assign Codex & OpenCode Skill**](https://github.com/MarbustTechnologyCompany/AssignCodexOpenCodeSkill) | Claude Code skill that delegates scoped implementation to the local Codex CLI and read-only audits to OpenCode, with Claude staying the orchestrator/verifier. |
 | [**LOPDP Ecuador Skill**](https://github.com/MarbustTechnologyCompany/LOPDPSkill) | Claude Code skill that turns Ecuador's data-protection law into concrete development decisions — legal basis, consent modeling, ARCO+ rights, real-world traps. |
 | [**ChatBot Integration Skill**](https://github.com/MarbustTechnologyCompany/ChatBotIntegrationSkill) | Guide + WordPress plugin so anyone can add the same cloud-first, failover-ready AI sales chatbot pattern running in my own production sites. |
 | [**Email Marketing DirectAdmin Setup Skill**](https://github.com/MarbustTechnologyCompany/EmailMarketingDASetupSkill) | Hosting-agnostic skill that authenticates a DirectAdmin domain for email and wires up marketing sends through a free-tier ESP instead of the shared relay. |
 | [**WHMCS PayPhone Payment Gateway**](https://github.com/MarbustTechnologyCompany/whmcs-payphone-plugin) | Payment gateway plugin bringing PayPhone (Ecuador) checkout to WHMCS. |
 
 ## 💼 Experience
+
+### 💳 SwyftFin — Full Stack Developer
+📅 Sep 2026 – Present · United States (Remote)
+
+- Building and maintaining modern web applications with **Next.js (App Router), React, and TypeScript**, including Progressive Web Apps (PWAs) built for performance and cross-device reliability.
+- Designing and integrating REST APIs with **PostgreSQL and Supabase** — data modeling, authentication, and secure access patterns.
+- Translating product requirements into scalable technical solutions while collaborating remotely with a US-based team.
 
 ### 🚀 Marbust Technology Company — Founder & Full Stack Developer
 📅 March 2017 – Present · Ecuador
@@ -109,17 +117,20 @@
 - Delivered **70+ full-stack projects** (web, e-commerce); grew the hosting client base ~35x since 2018.
 - Published a **React Native/Expo** app to Google Play; taught web development on YouTube & Udemy (92.9K+ views, 137 students, 4.60★).
 
-### 🏦 TechyWe — Back-End Technical Lead
-📅 Oct 2025 – Sep 2026 · El Salvador (Remote)
-
-- Led backend technical direction for **~10 developers**, driving architecture decisions and ramping the team onto new stacks (C#, .NET, Java) as client needs required.
-- Ran daily scrums, planning, and code review across concurrent Central-American client projects.
-
-### 🏦 TechyWe — Back-End Developer
+### 🏦 TechyWe — Technical Lead & Product Owner
 📅 May 2024 – Sep 2026 · El Salvador (Remote)
 
-- Built REST APIs and financial systems (Node.js, TypeScript, NestJS, LoopBack 4) for credit/debit cards, wire transfers, digital invoicing, and NIIF-compliant accounting.
-- Led the migration of a core business app to **Next.js + Prisma + NextAuth (Vercel, Postgres/Supabase)**, using Claude Code daily and the Model Context Protocol (MCP) for AI-assisted database work.
+**Technical Lead & Product Owner (Oct 2025 – Sep 2026)**
+- Wore multiple hats on TechyWe's support team (~10 developers) across client projects in Central America — hands-on development, technical leadership guiding solutions and adapting the team to new stacks (C#, .NET, Java), Product Ownership, and QA, end to end.
+- Product Owner for the CDI client board: triaged incoming reports into bugs vs. proposed improvements, decided what entered the sprint versus needed further analysis, and personally ran QA on shipped features before sign-off.
+- Built and maintained an internal Telegram bot integrated with the team's issue-tracking Hub (NestJS) — real-time state-change alerts, on-demand and end-of-day summaries, and per-developer task breakdowns — replacing manual status-checking across the team.
+- Ran daily scrums, planning, and code review across concurrent Central-American client projects.
+
+**Back-End Developer (May 2024 – Oct 2025)**
+- Designed and built backend REST APIs and financial systems (Node.js, TypeScript, NestJS, LoopBack 4, Express, MySQL, SQL Server) for credit/debit cards, wire transfers, digital invoicing, and NIIF-compliant accounting.
+- Architected enterprise integrations (Salesforce, i2c, DocuWare, BPC) and built business applications in Zoho Creator using Deluge scripting — accounting, HR, and administrative systems with reliable end-to-end workflows, including the production HR system.
+- Delivered complete modules of a client's production ERP (CDI) end-to-end — point-of-sale (full payment flows plus a regional payment gateway integration with idempotent webhooks), treasury, inventory management, and fixed assets — each verified through role-based end-to-end testing.
+- Led the migration of that same ERP from Zoho Creator to **Next.js/TypeScript with Supabase (PostgreSQL)**, using Claude Code and the Model Context Protocol (MCP) to accelerate delivery across a live, multi-module codebase, shipping through the team's CI/CD pipelines to Vercel.
 
 <details>
 <summary>💳 Earlier experience — Elife Tech, Expandya, Altura S.A., 2JL Soluciones Informáticas</summary>
