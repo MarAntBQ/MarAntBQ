@@ -143,7 +143,7 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 - Contributed hands-on to a Central American bank's online/mobile banking platform (Node.js/LoopBack 4 microservices under a BFF pattern) — building and fixing endpoints for credit/debit cards, digital wallet, wire transfers, and Salesforce CRM integration.
 - Stabilized (not built from scratch) an existing PHP + SQL Server lending application, applying NIIF accounting rules to its loan portfolio, through final delivery.
 - Designed databases and system integrations (Salesforce, i2c, DocuWare, BPC) and built business applications in Zoho Creator using Deluge scripting — accounting, HR, and administrative systems with reliable end-to-end workflows, including the production HR system.
-- Delivered complete modules of a client's production ERP (CDI) end-to-end — point-of-sale (full payment flows plus a regional payment gateway integration with idempotent webhooks), treasury, inventory management, and fixed assets — each verified through role-based end-to-end testing.
+- Worked on modules of a client's ERP (CDI) — point-of-sale (payment flows plus a regional payment gateway integration with idempotent webhooks), treasury, inventory management, and fixed assets; my contract ended before they reached production.
 - Worked hands-on on migrating that same ERP from Zoho Creator to **Next.js/TypeScript with Supabase (PostgreSQL)**, deployed on Vercel, where it reached active daily use — using Claude Code and the Model Context Protocol (MCP) to accelerate delivery across a live, multi-module codebase.
 
 <details>
