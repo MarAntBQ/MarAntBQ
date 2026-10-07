@@ -10,7 +10,7 @@
 
 </div>
 
-Full-stack developer with 9+ years of professional experience. I designed, built, and operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) that runs my entire multi-brand company under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both the internal backoffice and every client's self-service portal. In 2026 I also shipped a production AI chatbot and migrated 120+ clients of my hosting business (**MBHostCloud®**, since 2018) to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
+Full-stack developer with 9+ years of professional experience. I designed, built, and solo-operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) that runs my entire multi-brand company under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both the internal backoffice and every client's self-service portal. In 2026 I also shipped a production AI chatbot and migrated 120+ clients of my hosting business (**MBHostCloud®**, since 2018) to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
 
 - 🔭 **Currently:** Full Stack Developer at **SwyftFin** (US fintech, remote) — still open to the right full-time or freelance opportunity, shipping open-source Claude Code skills on the side, and contributing as a volunteer to **CallingSupportApp** (open source)
 - ⭐ **Flagship:** Marbust System — a self-built ERP (~22 modules, ~184 pages) governing my whole company + allied brands, with legal Ecuador SRI e-invoicing end to end
@@ -100,7 +100,7 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 📅 March 2017 – Present · Ecuador
 
 **⭐ Marbust System — self-built multi-brand ERP (NestJS + React, the flagship):**
-- Designed, built, and operate a unified ERP (**Marbust System API** + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) governing every business line of my company plus allied external brands (like MBRelax) — one login for both the internal backoffice and every client's self-service portal.
+- Designed, built, and solo-operate a unified ERP (**Marbust System API** + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) governing every business line of my company plus allied external brands (like MBRelax) — one login for both the internal backoffice and every client's self-service portal.
 - **SRI-compliant electronic invoicing** integrated end to end (XAdES digital signing, multi-establishment / multi-emission-point, independent test/production sequential counters) with accounting, credit notes, withholdings, and a tax-declaration assistant (IVA/Renta).
 - Built **Marbust Store**, a multi-tenant e-commerce engine replacing PrestaShop, plus a finance/treasury module with bank reconciliation.
 - Led 3 full architecture generations (PHP → Node/Express → NestJS) — the current version has run the whole business in production since 2026.
