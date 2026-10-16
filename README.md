@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marco Antonio Bustillos Quiroz
 
-### Full Stack Developer @ SwyftFin & MarAntBQ.dev · CTO @ MBHostCloud®
+### Full Stack Developer @ SwyftFin & MarAntBQ.dev
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-MarAntBQ.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marantbq.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MarAntBQ)
