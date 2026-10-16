@@ -115,6 +115,11 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 - **Just-in-time access to production**, opened only from the production side, so the workstation cannot grant itself that access; a Telegram bot pushes security alerts and runs only a fixed allowlist of commands.
 - **Disaster recovery as code:** an idempotent provisioning script plus daily encrypted, append-only backups — used in Oct 2026 to rebuild it from scratch on a new provider.
 
+**MBHostCloud® — as CTO (web hosting, since 2018):**
+- As **CTO**, lead the technology for a web-hosting operation (120+ clients) that runs today on **WHMCS** while building proprietary management/automation software in-house — one module of Marbust System, currently ~30% built. The client base has grown ~35x since 2018.
+- Migrated hosting infrastructure for those 120+ clients to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening, and automated backups.
+- Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
+
 **AI & automation (2026):**
 - Designed and shipped a **multi-provider AI chatbot** to production (NestJS, OpenAI-compatible LLM APIs) — prompt engineering, conversation memory, automatic failover — live across 5 client sites, plus a custom WordPress plugin (`mb-chatbot`) connecting sites to it.
 
@@ -122,13 +127,6 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 - Built the original **SRI-compliant e-invoicing platform** (XAdES digital signing + SOAP) with accounting and PayPhone/PayPal payments. Contributed to a 175% sales boost and 90% client retention.
 - Delivered **70+ full-stack projects** (web, e-commerce) for clients in Ecuador and abroad.
 - Published a **React Native/Expo** app to Google Play Console (signed AAB, closed testing); taught web development on YouTube & Udemy (92.9K+ views, 137 students, 4.60★).
-
-### ☁️ MBHostCloud® — CTO
-📅 Since 2018 · Ecuador
-
-- As **CTO**, lead the technology for a web-hosting operation (120+ clients) that runs today on **WHMCS** while building proprietary management/automation software in-house — one module of Marbust System, currently ~30% built. The client base has grown ~35x since 2018.
-- Migrated hosting infrastructure for those 120+ clients to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening, and automated backups.
-- Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
 
 ### 🏦 TechyWe — Technical Lead & Product Owner
 📅 May 2024 – Sep 2026 · El Salvador (Remote)
