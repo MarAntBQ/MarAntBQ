@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marco Antonio Bustillos Quiroz
 
-### Full Stack Developer @ SwyftFin & MarAntBQ.dev
+### Full Stack Developer @ MarAntBQ.dev
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-MarAntBQ.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marantbq.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MarAntBQ)
@@ -12,7 +12,7 @@
 
 Full-stack developer with 9+ years of professional experience. I designed, built, and operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) spanning multiple business lines under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both an internal backoffice and each client's self-service portal. In 2026 I also shipped a production AI chatbot and, as CTO of **MBHostCloud®** (web hosting, since 2018), migrated 120+ clients to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
 
-- 🔭 **Currently:** Full Stack Developer at **SwyftFin** (US fintech, remote) — still open to the right full-time or freelance opportunity, shipping open-source Claude Code skills on the side, and contributing as a volunteer to **CallingSupportApp** (open source)
+- 🔭 **Currently:** Technical Support Representative at **The Church of Jesus Christ of Latter-day Saints** (Quito, Ecuador · on-site, from Nov 2026) — open to freelance projects on the side, shipping open-source Claude Code skills, and contributing as a volunteer to **CallingSupportApp** (open source)
 - ⭐ **Flagship:** Marbust System — a self-built ERP (~22 modules, ~184 pages) spanning multiple business lines, with legal Ecuador SRI e-invoicing end to end
 - 🤖 **Also shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a React Native/Expo app published to Google Play Console (closed testing)
 - 🛡️ **Latest (Oct 2026):** **DevBox**, a hardened cloud workstation for running AI coding agents with least privilege, and **Marbust Websites® CMS v2**, a multi-tenant, manifest-driven CMS with Marbust System as its control plane
@@ -89,12 +89,20 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 
 ## 💼 Experience
 
-### 💳 SwyftFin — Full Stack Developer
-📅 Sep 2026 – Present · United States (Remote)
+### ⛪ The Church of Jesus Christ of Latter-day Saints — ECU Technical Support Representative
+📅 Nov 2026 – Present · Quito, Ecuador (On-site)
 
-- Building and maintaining modern web applications with **Next.js (App Router), React, and TypeScript**, including Progressive Web Apps (PWAs) built for performance and cross-device reliability.
-- Designing and integrating REST APIs with **PostgreSQL and Supabase** — data modeling, authentication, and secure access patterns.
-- Translating product requirements into scalable technical solutions while collaborating remotely with a US-based team.
+- Provide specialized technical support to users, diagnosing and resolving incidents related to hardware, software, systems, and connectivity.
+- Manage and escalate complex technical requests, ensuring SLA compliance and operational continuity.
+- Implement, maintain, and update technology equipment and applications to ensure an efficient and secure work environment.
+- Support technology adoption and best practices across users and teams.
+
+### 💳 SwyftFin — Full Stack Developer
+📅 Sep 2026 – Nov 2026 · United States (Remote)
+
+- Built and maintained modern web applications with **Next.js (App Router), React, and TypeScript**, including Progressive Web Apps (PWAs) built for performance and cross-device reliability.
+- Designed and integrated REST APIs with **PostgreSQL and Supabase** — data modeling, authentication, and secure access patterns.
+- Translated product requirements into scalable technical solutions while collaborating remotely with a US-based team.
 
 ### 🚀 MarAntBQ.dev — Full Stack Developer
 📅 March 2017 – Present · Ecuador
