@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marco Antonio Bustillos Quiroz
 
-### Full Stack Developer @ MarAntBQ.dev
+### Technical Support Representative @ The Church of Jesus Christ of Latter-day Saints
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-MarAntBQ.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marantbq.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MarAntBQ)
@@ -10,13 +10,13 @@
 
 </div>
 
-Full-stack developer with 9+ years of professional experience. I designed, built, and operate **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) spanning multiple business lines under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both an internal backoffice and each client's self-service portal. In 2026 I also shipped a production AI chatbot and, as CTO of **MBHostCloud®** (web hosting, since 2018), migrated 120+ clients to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
+Full-stack developer with 9+ years of professional experience. I designed, built, and operated **Marbust System** — a unified ERP (NestJS API + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) spanning multiple business lines under one login: SRI-compliant e-invoicing, multi-tenant e-commerce, finance/treasury, and more — serving both an internal backoffice and each client's self-service portal. In 2026 I also shipped a production AI chatbot and, as CTO of **MBHostCloud®** (web hosting, 2018 – 2026), migrated 120+ clients to self-managed infrastructure. AI-assisted development (Claude Code, GitHub Copilot) is part of my daily workflow.
 
 - 🔭 **Currently:** Technical Support Representative at **The Church of Jesus Christ of Latter-day Saints** (Quito, Ecuador · on-site, from Nov 2026) — open to freelance projects on the side, shipping open-source Claude Code skills, and contributing as a volunteer to **CallingSupportApp** (open source)
 - ⭐ **Flagship:** Marbust System — a self-built ERP (~22 modules, ~184 pages) spanning multiple business lines, with legal Ecuador SRI e-invoicing end to end
 - 🤖 **Also shipped:** a multi-provider AI chatbot (NestJS + OpenAI-compatible LLM APIs) and a React Native/Expo app published to Google Play Console (closed testing)
 - 🛡️ **Latest (Oct 2026):** **DevBox**, a hardened cloud workstation for running AI coding agents with least privilege, and **Marbust Websites® CMS v2**, a multi-tenant, manifest-driven CMS with Marbust System as its control plane
-- 🌎 Based in Ecuador · Advanced English (C1, EF SET) · open to remote full-time & freelance work
+- 🌎 Based in Ecuador · Advanced English (C1, EF SET) · open to freelance projects
 
 ## 🛠️ Tech Stack
 
@@ -92,10 +92,10 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 ### ⛪ The Church of Jesus Christ of Latter-day Saints — ECU Technical Support Representative
 📅 Nov 2026 – Present · Quito, Ecuador (On-site)
 
-- Provide specialized technical support to users, diagnosing and resolving incidents related to hardware, software, systems, and connectivity.
-- Manage and escalate complex technical requests, ensuring SLA compliance and operational continuity.
-- Implement, maintain, and update technology equipment and applications to ensure an efficient and secure work environment.
-- Support technology adoption and best practices across users and teams.
+- Provide specialized technical support to users, diagnosing and resolving hardware, software, systems, and connectivity incidents, and manage and escalate complex requests to meet service levels and operational continuity.
+- Implement, maintain, and update equipment, applications, and technology solutions, and take part in IT projects, deployments, migrations, and continuous-improvement initiatives for infrastructure and services.
+- Administer support tools and technology-management platforms, promoting process automation and optimization, and document procedures, changes, and solutions in line with corporate standards and controls.
+- Train and guide users and support teams on best practices, and lead or collaborate on the area's strategic initiatives with technical recommendations and specialized support.
 
 ### 💳 SwyftFin — Full Stack Developer
 📅 Sep 2026 – Nov 2026 · United States (Remote)
@@ -105,10 +105,10 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 - Translated product requirements into scalable technical solutions while collaborating remotely with a US-based team.
 
 ### 🚀 MarAntBQ.dev — Full Stack Developer
-📅 March 2017 – Present · Ecuador
+📅 March 2017 – Nov 2026 · Ecuador
 
 **⭐ Marbust System — self-built multi-brand ERP (NestJS + React, the flagship):**
-- Designed, built, and operate a unified ERP (**Marbust System API** + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) spanning multiple business lines plus allied brands (like MBRelax) — one login for both an internal backoffice and each client's self-service portal.
+- Designed, built, and operated a unified ERP (**Marbust System API** + **Marbust Accounts**, ~22 backend modules, ~184 frontend pages) spanning multiple business lines plus allied brands (like MBRelax) — one login for both an internal backoffice and each client's self-service portal.
 - **SRI-compliant electronic invoicing** integrated end to end (XAdES digital signing, multi-establishment / multi-emission-point, independent test/production sequential counters) with accounting, credit notes, withholdings, and a tax-declaration assistant (IVA/Renta).
 - Built **Marbust Store**, a multi-tenant e-commerce engine replacing PrestaShop, plus a finance/treasury module with bank reconciliation.
 - Led 3 full architecture generations (PHP → Node/Express → NestJS) — the current version has run in production since 2026.
@@ -123,15 +123,15 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 - **Just-in-time access to production**, opened only from the production side, so the workstation cannot grant itself that access; a Telegram bot pushes security alerts and runs only a fixed allowlist of commands.
 - **Disaster recovery as code:** an idempotent provisioning script plus daily encrypted, append-only backups — used in Oct 2026 to rebuild it from scratch on a new provider.
 
-**MBHostCloud® — as CTO (web hosting, since 2018):**
-- As **CTO**, lead the technology for a web-hosting operation (120+ clients) that runs today on **WHMCS** while building proprietary management/automation software in-house — one module of Marbust System, currently ~30% built. The client base has grown ~35x since 2018.
+**MBHostCloud® — as CTO (web hosting, 2018 – 2026):**
+- As **CTO**, led the technology for a web-hosting operation (120+ clients) running on **WHMCS** while building proprietary management/automation software in-house — one module of Marbust System, ~30% built as of Nov 2026. The client base grew ~35x since 2018.
 - Migrated hosting infrastructure for those 120+ clients to a self-managed Linux VPS with zero data loss — full mail stack (SPF/DKIM/DMARC across 180+ domains), security hardening, and automated backups.
 - Built **Telegram-based ops bots** for infrastructure monitoring, self-healing service recovery, and automated abuse/flood defense.
 
 **AI & automation (2026):**
 - Designed and shipped a **multi-provider AI chatbot** to production (NestJS, OpenAI-compatible LLM APIs) — prompt engineering, conversation memory, automatic failover — live across 5 client sites, plus a custom WordPress plugin (`mb-chatbot`) connecting sites to it.
 
-**Web, mobile & product work (2017 – Present):**
+**Web, mobile & product work (2017 – 2026):**
 - Built the original **SRI-compliant e-invoicing platform** (XAdES digital signing + SOAP) with accounting and PayPhone/PayPal payments. Contributed to a 175% sales boost and 90% client retention.
 - Delivered **70+ full-stack projects** (web, e-commerce) for clients in Ecuador and abroad.
 - Published a **React Native/Expo** app to Google Play Console (signed AAB, closed testing); taught web development on YouTube & Udemy (92.9K+ views, 137 students, 4.60★).
@@ -170,7 +170,7 @@ Full-stack developer with 9+ years of professional experience. I designed, built
 
 ## 📫 Let's Connect
 
-I'm open to full-time roles, freelance/contract work, and interesting collaborations — especially where backend engineering meets AI.
+I'm open to freelance/contract work and interesting collaborations — especially where backend engineering meets AI.
 
 <div align="center">
 
